@@ -76,6 +76,6 @@ footer {
 
 .cadeado {
   position: fixed;
-  bottom: 1px;
-  left: 1px;
+  bottom: 20px;
+  left: 20px;
 }
